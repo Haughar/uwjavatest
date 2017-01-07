@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tedneward.example.TestPerson" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-01-07T22:20:39" hostname="Alis-MacBook-Pro.local" time="0.02">
+  <properties/>
+  <testcase name="setAgeToBeNegative" classname="com.tedneward.example.TestPerson" time="0.01"/>
+  <testcase name="exerciseTheBasics" classname="com.tedneward.example.TestPerson" time="0.001"/>
+  <testcase name="setNameToNull" classname="com.tedneward.example.TestPerson" time="0.001"/>
+  <testcase name="viewReadabletoString" classname="com.tedneward.example.TestPerson" time="0.001"/>
+  <testcase name="exercisePesonEquals" classname="com.tedneward.example.TestPerson" time="0.0"/>
+  <testcase name="useAgeComparator" classname="com.tedneward.example.TestPerson" time="0.002"/>
+  <testcase name="useNaturalComparison" classname="com.tedneward.example.TestPerson" time="0.0"/>
+  <testcase name="catchPropertyChange" classname="com.tedneward.example.TestPerson" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
